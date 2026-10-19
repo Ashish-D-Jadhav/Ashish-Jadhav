@@ -1,50 +1,60 @@
 # Hello, I'm Ashish
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Dedicated and detail-oriented in Active Directory and Azure Administrator with over 10 years of experience in managing and implementing Microsoft Azure solutions. 
+IT Analyst with 10+ years of experience supporting enterprise environments across Microsoft 365, Azure, Intune, Active Directory and Endpoint Management.
 
 ## Objective
 
-Ambitious in Cyber Security and currently learning in designing, implementing, and optimizing security solutions using Microsoft Defender, Copilot and Sentinel.
+Currently focused on Cyber Security, Detection Engineering, Digital Forensics and Incident Response (DFIR), Microsoft Defender XDR, Microsoft Sentinel and Wazuh.
+I enjoy building security labs, developing detection rules and investigating security events to strengthen organisational security posture.
 
-## Skills
+## Current Role - IT Analyst
 
-| Skill                                         |
-|-----------------------------------------------|
-| Azure Administrator, Microsoft Intune and Mobile device management
-| Active Directory Federation Services and Microsoft System Center Configuration Manager 
-| Active Directory and Group Policy Management          
-| Desktop Administration and Windows Server Management       
-| Power Automate                  
+☁️ Azure Administration
 
-## Tools
+🔐 Active Directory & Entra ID
+
+💻 Microsoft Intune
+
+🛡️ Microsoft Defender for Endpoint
+
+⚙️ Group Policy Management
+
+📱 Mobile Device Management
+
+🎯 VIP Support
+
+🖥️ Windows Server Administration
+
+📧 Exchange Online
+
+🤖 PowerShell & Automation
+               
+
+## Security Skills
+
+### SIEM & Monitoring
+<div>
+    <img src="https://img.shields.io/badge/-Wazuh-0269A4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL-512BD4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
 
 ### Network
+
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fiddler_Network_Analysis-34A853?&style=for-the-badge&logo=telerik&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
 - Detection Lab
