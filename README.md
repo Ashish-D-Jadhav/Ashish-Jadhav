@@ -55,7 +55,17 @@ I enjoy building security labs, developing detection rules and investigating sec
     <img src="https://img.shields.io/badge/-Fiddler_Network_Analysis-34A853?&style=for-the-badge&logo=telerik&logoColor=white" />
 </div>
 
+## Featured Projects
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+### Wazuh SOC Home Lab
+
+End-to-end Security Operations Center implementation using Wazuh, Sysmon and custom detection rules.
+
+- Wazuh Deployment
+- Sysmon Integration
+- Telemetry Analysis
+- SOC Dashboard Development
+- Custom Detection Rules
+- Active Response Configuration
+- Incident Investigation
+
